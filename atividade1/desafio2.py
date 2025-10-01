@@ -2,7 +2,7 @@ import cv2
 import os
 
 IMAGE_PATH = 'images/zuky.jpeg'
-OUTPUT_PATH = 'images/zuky_modified.jpeg'
+OUTPUT_PATH = 'resultImages/zuky_modified.jpeg'
 
 Y_COORD = 150
 X_COORD = 200
